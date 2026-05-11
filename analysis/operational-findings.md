@@ -1,4 +1,3 @@
-#Operational Findings
 # Operational Findings — Talabat Egypt Market
 ### Delivery Operations Deep Dive | Simulated Case Study
 **Classification:** Executive Review | Operations Strategy  
