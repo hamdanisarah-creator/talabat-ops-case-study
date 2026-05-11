@@ -1,4 +1,3 @@
-# Operational Bottlenecks
 # Operational Bottleneck Analysis — Talabat Egypt Market
 ### Structured Diagnostic Report | Operations Strategy
 **Classification:** Executive Review | Confidential  
